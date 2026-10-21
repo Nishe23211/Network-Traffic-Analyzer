@@ -1,0 +1,17 @@
+
+# Virtual Environment
+.venv/
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Private Network Data
+traffic.csv
+*.pcap
+*.pcapng
+
+# Environment Variables
+.env
+.env.*
